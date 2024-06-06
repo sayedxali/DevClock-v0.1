@@ -2,7 +2,7 @@
 
 A time tracking web application using java/spring boot.
 
-Since this project is for my resume (since I don't have job experience, and I want to find high paying jobs), I want and need to use these tech stacks:
+Tech stacks used:
 
 - Spring boot
 - Security = Keycloak
@@ -23,6 +23,8 @@ Since this project is for my resume (since I don't have job experience, and I wa
 
 
 The project will have these functionalities:
+
+> Note 💡: Wherever you see this sign "<kbd>$</kbd>" before a point, that means that functionality or feature is to be implemented in the next version of the application.
 
 1. Registration/Login (Keycloak)
 
@@ -73,7 +75,7 @@ The project will have these functionalities:
 
         - User can enter tasks for a project, as much as he wants.
         - He can reorder the tasks.
-        - $ When the use creates a task, if that project has members in it (team members), using `Kafka`, a notification will be sent to the members, with the created tasks information + some other information like the project, description, members, leader(s), etc...
+        - <kbd>$</kbd> When the use creates a task, if that project has members in it (team members), using `Kafka`, a notification will be sent to the members, with the created tasks information + some other information like the project, description, members, leader(s), etc...
 
     - <kbd>$</kbd> Manage Access
 
@@ -85,7 +87,7 @@ The project will have these functionalities:
 
       I don't know about estimate yet. Will think about it later on.
 
-    - <kbd>$#</kbd> Check Progress
+    - <kbd>$</kbd> Check Progress
 
       This feature is for both when the project has members, or it doesn't. The user can see the progress of the project. This feature needs more thinking, and I think, we can use `Kafka` here.
 
