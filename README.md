@@ -20,6 +20,7 @@ Tech stacks used:
 4. [TimeEntry-Service](https://github.com/seyedali-dev/DevClock-v0.1_TimeEntryService)
 5. [Project-Service](https://github.com/seyedali-dev/DevClock-v0.1_ProjectService)
 6. [Task-Service](https://github.com/seyedali-dev/DevClock-v0.1_TaskService)
+7. [Report-Service](https://github.com/seyedali-dev/DevClock-v0.1_ReportService)
 
 
 The project will have these functionalities:
