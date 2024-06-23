@@ -200,3 +200,8 @@ The project will have these functionalities:
     - View Daily Routes
 
       User can enter their daily routes to office or where they work.
+
+---
+<kbd>$</kbd>
+- call and audio
+- inactivity of screen time (recording the ide itself), idle time stopping
